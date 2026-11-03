@@ -1,0 +1,16 @@
+{
+    "name": "MultiplayerPlayModeDebugHelper",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d907736242052b04aa042bbb2ce30384"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
